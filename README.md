@@ -14,6 +14,7 @@ Observação¹: na criação do .env, utilize o .env.example para saber quais va
 Após isso so resta rodar os seguintes comandos:
 
 ```bash
+$ npm run db:push
 $ npm i
 $ npm run dev
 ```
